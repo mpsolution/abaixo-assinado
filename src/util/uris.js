@@ -1,0 +1,1 @@
+export const pagsegurouri = 'http://mail.mpitsolutions.com.br/pagseguro/efetuarpagamento.php'

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "21526096448",
+    "firebase_url": "https://abaixoassinado-86a7c.firebaseio.com",
+    "project_id": "abaixoassinado-86a7c",
+    "storage_bucket": "abaixoassinado-86a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21526096448:android:2c3d4123e544b74db18da5",
+        "android_client_info": {
+          "package_name": "com.abaixoassinado.abaixoassinado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21526096448-fnhc52q7bpbl04mciplpbmqtnh6rgtcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abaixoassinado.abaixoassinado",
+            "certificate_hash": "746dac8bad12cd280743661795c529858757f03d"
+          }
+        },
+        {
+          "client_id": "21526096448-d4o0akfd92dvrkaa1b9eiirsma7afl4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abaixoassinado.abaixoassinado",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "21526096448-bc7e9lmh040nctojtrntn97equ0bpngf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChaLhH8S1ybYIgjXjbhforl0KrW0Wz6iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21526096448-bc7e9lmh040nctojtrntn97equ0bpngf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
